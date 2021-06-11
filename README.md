@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 ![Meraj](https://komarev.com/ghpvc/?username=jar3m&style=plastic)
+
+![Meraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jar3m&count_private=true&layout=compact&show_icons=true&theme=dracula)
+<!--
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jar3m&repo=jar3m)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+-->
+
 
 <!--
 **jar3m/jar3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
